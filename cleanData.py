@@ -6,13 +6,13 @@ fh = csv.reader(file1)
 
 info = list(fh)
 header = info[0]
-data = info[759:]
+data = info[1:]
 file1.close()
 final = []
 
 for dt in data:
-    d = dt[1:3]
-    d.append(float( (dt[4]).replace(',','') ))
+    d = dt[:2]
+    d.append(float( (dt[2]).replace(',','') ))
     final.append(d)
 
 file2 = open("./DataSet/GDP2.csv", 'w')

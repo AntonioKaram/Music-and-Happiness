@@ -57,7 +57,7 @@ Andorra,2010,0.0
 Andorra,2010,0.0
 Andorra,2010,116.0
 Andorra,2010,0.0
-Andorra,2010,"1,322.6"
+Andorra,2010,1322.6
 Andorra,2010,9.5
 Andorra,2010,11.8
 Andorra,2015,0.0
@@ -65,7 +65,7 @@ Andorra,2015,0.0
 Andorra,2015,0.0
 Andorra,2015,170.5
 Andorra,2015,0.0
-Andorra,2015,"1,341.1"
+Andorra,2015,1341.1
 Andorra,2015,10.3
 Andorra,2015,14.1
 Angola,2012,4.8
@@ -89,7 +89,7 @@ Antigua and Barbuda,2010,6.8
 Antigua and Barbuda,2012,11.1
 Antigua and Barbuda,2017,7.3
 Antigua and Barbuda,2017,14.7
-Antigua and Barbuda,2017,"1,117.1"
+Antigua and Barbuda,2017,1117.1
 Antigua and Barbuda,2017,113.2
 Antigua and Barbuda,2017,87.0
 Antigua and Barbuda,2018,8.3
@@ -156,13 +156,13 @@ Aruba,2014,0.0
 Australia,2005,1.3
 Australia,2005,1.6
 Australia,2005,0.9
-Australia,2005,"2,568.7"
+Australia,2005,2568.7
 Australia,2010,1.0
 Australia,2010,1.2
 Australia,2010,0.8
 Australia,2010,309.9
 Australia,2010,2.8
-Australia,2010,"2,154.2"
+Australia,2010,2154.2
 Australia,2010,66.1
 Australia,2010,85.1
 Australia,2017,0.8
@@ -170,7 +170,7 @@ Australia,2017,1.2
 Australia,2017,0.5
 Australia,2017,296.8
 Australia,2017,2.0
-Australia,2017,"2,289.4"
+Australia,2017,2289.4
 Australia,2017,39.0
 Australia,2017,101.5
 Australia,2018,0.9
@@ -178,20 +178,20 @@ Australia,2018,1.1
 Australia,2018,0.7
 Australia,2018,292.0
 Australia,2018,1.8
-Australia,2018,"2,332.5"
+Australia,2018,2332.5
 Austria,2005,0.7
 Austria,2005,0.7
 Austria,2005,0.6
 Austria,2005,43.8
 Austria,2005,0.1
-Austria,2005,"2,144.8"
+Austria,2005,2144.8
 Austria,2005,20.3
 Austria,2010,0.7
 Austria,2010,0.7
 Austria,2010,0.7
 Austria,2010,42.9
 Austria,2010,0.1
-Austria,2010,"1,853.2"
+Austria,2010,1853.2
 Austria,2010,51.2
 Austria,2010,39.2
 Austria,2017,0.8
@@ -199,7 +199,7 @@ Austria,2017,0.8
 Austria,2017,0.8
 Austria,2017,41.1
 Austria,2017,0.0
-Austria,2017,"1,421.5"
+Austria,2017,1421.5
 Austria,2017,29.6
 Austria,2017,48.2
 Austria,2018,1.0
@@ -207,7 +207,7 @@ Austria,2018,1.0
 Austria,2018,1.0
 Austria,2018,41.7
 Austria,2018,0.1
-Austria,2018,"1,266.5"
+Austria,2018,1266.5
 Azerbaijan,2005,2.2
 Azerbaijan,2005,1.9
 Azerbaijan,2005,0.3
@@ -251,18 +251,18 @@ Bahamas,2010,87.1
 Bahamas,2017,32.0
 Bahamas,2017,62.6
 Bahamas,2017,3.1
-Bahamas,2017,"1,009.6"
+Bahamas,2017,1009.6
 Bahamas,2017,2.9
 Bahamas,2017,273.7
 Bahamas,2017,165.0
 Bahamas,2017,84.1
-Bahamas,2018,"1,046.3"
+Bahamas,2018,1046.3
 Bahamas,2018,2.3
 Bahamas,2018,215.5
 Bahrain,2005,0.4
 Bahrain,2005,396.8
 Bahrain,2005,1.4
-Bahrain,2005,"1,086.3"
+Bahrain,2005,1086.3
 Bahrain,2007,0.4
 Bahrain,2007,254.3
 Bahrain,2007,0.0
@@ -320,7 +320,7 @@ Barbados,2018,2.7
 Belarus,2005,8.6
 Belarus,2005,20.0
 Belarus,2005,0.4
-Belarus,2005,"1,079.2"
+Belarus,2005,1079.2
 Belarus,2005,8.6
 Belarus,2010,4.3
 Belarus,2010,6.1
@@ -355,14 +355,14 @@ Belgium,2005,2.5
 Belgium,2005,1.7
 Belgium,2005,639.2
 Belgium,2005,8.7
-Belgium,2005,"2,061.0"
+Belgium,2005,2061.0
 Belgium,2005,57.3
 Belgium,2010,1.7
 Belgium,2010,2.2
 Belgium,2010,1.2
 Belgium,2010,710.9
 Belgium,2010,10.3
-Belgium,2010,"2,087.6"
+Belgium,2010,2087.6
 Belgium,2010,218.1
 Belgium,2010,64.8
 Belgium,2014,1.9
@@ -370,17 +370,17 @@ Belgium,2014,2.3
 Belgium,2014,1.4
 Belgium,2014,627.5
 Belgium,2014,10.3
-Belgium,2014,"1,857.6"
+Belgium,2014,1857.6
 Belgium,2014,195.4
 Belgium,2014,61.5
 Belgium,2017,1.7
 Belgium,2017,546.9
 Belgium,2017,10.2
-Belgium,2017,"1,953.5"
+Belgium,2017,1953.5
 Belgium,2017,154.2
 Belgium,2017,72.5
 Belgium,2018,549.9
-Belgium,2018,"1,900.7"
+Belgium,2018,1900.7
 Belize,2004,28.6
 Belize,2004,46.7
 Belize,2004,10.2
@@ -435,7 +435,7 @@ Bermuda,2016,13.0
 Bermuda,2016,27.2
 Bermuda,2016,0.0
 Bermuda,2016,72.6
-Bermuda,2016,"2,133.8"
+Bermuda,2016,2133.8
 Bermuda,2016,142.0
 Bermuda,2017,8.1
 Bermuda,2017,17.1
@@ -532,11 +532,11 @@ Botswana,2005,16.2
 Botswana,2010,15.2
 Botswana,2010,878.5
 Botswana,2010,0.2
-Botswana,2010,"1,495.4"
+Botswana,2010,1495.4
 Botswana,2010,120.9
 Botswana,2014,806.6
 Botswana,2014,0.1
-Botswana,2014,"1,419.9"
+Botswana,2014,1419.9
 Botswana,2014,81.3
 Botswana,2014,131.7
 Brazil,2005,23.4
@@ -563,14 +563,14 @@ Brazil,2017,58.2
 Brazil,2017,4.3
 Brazil,2017,284.8
 Brazil,2017,0.3
-Brazil,2017,"1,109.0"
+Brazil,2017,1109.0
 Brazil,2017,806.5
 Brazil,2018,27.4
 Brazil,2018,51.2
 Brazil,2018,4.3
 Brazil,2018,274.3
 Brazil,2018,0.3
-Brazil,2018,"1,052.3"
+Brazil,2018,1052.3
 British Virgin Islands,2002,4.7
 British Virgin Islands,2002,0.0
 British Virgin Islands,2004,17.9
@@ -700,14 +700,14 @@ Canada,2005,3.0
 Canada,2005,1.1
 Canada,2005,166.2
 Canada,2005,12.1
-Canada,2005,"2,039.2"
+Canada,2005,2039.2
 Canada,2005,81.9
 Canada,2010,1.6
 Canada,2010,2.4
 Canada,2010,0.9
 Canada,2010,162.3
 Canada,2010,12.6
-Canada,2010,"1,593.8"
+Canada,2010,1593.8
 Canada,2010,89.3
 Canada,2010,78.8
 Canada,2017,1.8
@@ -715,7 +715,7 @@ Canada,2017,2.7
 Canada,2017,0.9
 Canada,2017,150.8
 Canada,2017,10.3
-Canada,2017,"1,420.6"
+Canada,2017,1420.6
 Canada,2017,61.9
 Canada,2017,95.3
 Canada,2018,1.8
@@ -742,7 +742,7 @@ Chile,2010,5.3
 Chile,2010,1.1
 Chile,2010,130.5
 Chile,2010,1.5
-Chile,2010,"1,095.9"
+Chile,2010,1095.9
 Chile,2010,478.6
 Chile,2010,76.2
 Chile,2017,4.2
@@ -862,14 +862,14 @@ Costa Rica,2013,1.5
 Costa Rica,2013,173.4
 Costa Rica,2013,0.1
 Costa Rica,2013,691.4
-Costa Rica,2013,"1,011.2"
+Costa Rica,2013,1011.2
 Costa Rica,2013,153.5
 Costa Rica,2017,12.2
 Costa Rica,2017,22.0
 Costa Rica,2017,2.3
 Costa Rica,2017,155.5
 Costa Rica,2017,0.2
-Costa Rica,2017,"1,587.5"
+Costa Rica,2017,1587.5
 Costa Rica,2017,191.2
 Costa Rica,2018,11.3
 Cte dIvoire,2008,51.6
@@ -952,14 +952,14 @@ Czechia,2005,1.3
 Czechia,2005,0.9
 Czechia,2005,211.4
 Czechia,2005,0.1
-Czechia,2005,"1,502.5"
+Czechia,2005,1502.5
 Czechia,2005,18.0
 Czechia,2010,1.0
 Czechia,2010,1.0
 Czechia,2010,1.0
 Czechia,2010,171.5
 Czechia,2010,0.1
-Czechia,2010,"1,198.8"
+Czechia,2010,1198.8
 Czechia,2010,38.1
 Czechia,2010,12.7
 Czechia,2017,0.6
@@ -977,26 +977,26 @@ Denmark,2005,1.0
 Denmark,2005,1.3
 Denmark,2005,0.7
 Denmark,2005,205.1
-Denmark,2005,"3,100.9"
+Denmark,2005,3100.9
 Denmark,2010,0.8
 Denmark,2010,0.7
 Denmark,2010,0.8
 Denmark,2010,31.6
-Denmark,2010,"4,351.2"
+Denmark,2010,4351.2
 Denmark,2010,60.7
 Denmark,2010,36.2
 Denmark,2017,1.2
 Denmark,2017,1.8
 Denmark,2017,0.7
 Denmark,2017,33.2
-Denmark,2017,"3,731.9"
+Denmark,2017,3731.9
 Denmark,2017,35.6
 Denmark,2017,83.6
 Denmark,2018,1.0
 Denmark,2018,1.3
 Denmark,2018,0.7
 Denmark,2018,32.3
-Denmark,2018,"3,178.3"
+Denmark,2018,3178.3
 Dominica,2001,1.4
 Dominica,2001,0.0
 Dominica,2002,12.9
@@ -1119,14 +1119,14 @@ Estonia,2005,13.4
 Estonia,2005,3.9
 Estonia,2005,9.7
 Estonia,2005,0.1
-Estonia,2005,"2,246.3"
+Estonia,2005,2246.3
 Estonia,2005,29.7
 Estonia,2010,5.3
 Estonia,2010,8.6
 Estonia,2010,2.3
 Estonia,2010,7.7
 Estonia,2010,0.0
-Estonia,2010,"1,895.7"
+Estonia,2010,1895.7
 Estonia,2010,45.0
 Estonia,2010,20.6
 Estonia,2017,2.2
@@ -1144,9 +1144,9 @@ Estonia,2018,6.8
 Estonia,2018,0.0
 Estonia,2018,559.6
 Eswatini,2004,14.2
-Eswatini,2004,"1,421.3"
+Eswatini,2004,1421.3
 Eswatini,2004,9.4
-Eswatini,2004,"2,031.7"
+Eswatini,2004,2031.7
 Eswatini,2005,13.5
 Eswatini,2010,19.5
 Eswatini,2017,11.6
@@ -1159,14 +1159,14 @@ Finland,2005,3.3
 Finland,2005,1.3
 Finland,2005,579.3
 Finland,2005,0.0
-Finland,2005,"2,378.4"
+Finland,2005,2378.4
 Finland,2005,36.5
 Finland,2010,2.2
 Finland,2010,3.5
 Finland,2010,1.0
 Finland,2010,37.2
 Finland,2010,0.0
-Finland,2010,"1,853.1"
+Finland,2010,1853.1
 Finland,2010,28.1
 Finland,2010,45.0
 Finland,2017,1.3
@@ -1174,7 +1174,7 @@ Finland,2017,1.4
 Finland,2017,1.1
 Finland,2017,28.7
 Finland,2017,0.0
-Finland,2017,"2,000.3"
+Finland,2017,2000.3
 Finland,2017,29.8
 Finland,2017,55.4
 Finland,2018,1.6
@@ -1182,16 +1182,16 @@ Finland,2018,2.3
 Finland,2018,1.0
 Finland,2018,29.1
 Finland,2018,0.1
-Finland,2018,"1,954.5"
+Finland,2018,1954.5
 France,2005,1.6
 France,2005,243.2
 France,2005,3.3
-France,2005,"1,366.3"
+France,2005,1366.3
 France,2005,39.1
 France,2010,1.3
 France,2010,368.8
 France,2010,3.3
-France,2010,"1,864.8"
+France,2010,1864.8
 France,2010,192.5
 France,2010,36.5
 France,2016,1.4
@@ -1199,7 +1199,7 @@ France,2016,1.7
 France,2016,1.0
 France,2016,375.6
 France,2016,5.9
-France,2016,"2,136.2"
+France,2016,2136.2
 France,2016,161.5
 France,2016,58.0
 France,2017,1.3
@@ -1246,14 +1246,14 @@ Germany,2005,1.2
 Germany,2005,0.9
 Germany,2005,605.8
 Germany,2005,2.1
-Germany,2005,"2,738.2"
+Germany,2005,2738.2
 Germany,2005,67.6
 Germany,2010,1.0
 Germany,2010,1.0
 Germany,2010,1.0
 Germany,2010,176.8
 Germany,2010,6.1
-Germany,2010,"1,509.4"
+Germany,2010,1509.4
 Germany,2010,59.6
 Germany,2010,45.2
 Germany,2017,1.0
@@ -1261,7 +1261,7 @@ Germany,2017,1.1
 Germany,2017,0.9
 Germany,2017,165.8
 Germany,2017,5.6
-Germany,2017,"1,399.0"
+Germany,2017,1399.0
 Germany,2017,47.0
 Germany,2017,42.1
 Germany,2018,0.9
@@ -1269,7 +1269,7 @@ Germany,2018,1.0
 Germany,2018,0.9
 Germany,2018,164.5
 Germany,2018,5.5
-Germany,2018,"1,302.2"
+Germany,2018,1302.2
 Ghana,2005,1.8
 Ghana,2010,1.7
 Ghana,2017,2.1
@@ -1286,7 +1286,7 @@ Greece,2010,2.7
 Greece,2010,0.6
 Greece,2010,10.1
 Greece,2010,1.6
-Greece,2010,"1,088.6"
+Greece,2010,1088.6
 Greece,2010,55.8
 Greece,2010,4.7
 Greece,2017,0.8
@@ -1309,14 +1309,14 @@ Greenland,2016,5.3
 Grenada,2005,10.5
 Grenada,2005,15.2
 Grenada,2005,5.8
-Grenada,2005,"1,809.7"
+Grenada,2005,1809.7
 Grenada,2005,0.0
-Grenada,2005,"1,732.3"
+Grenada,2005,1732.3
 Grenada,2005,144.3
 Grenada,2010,9.4
 Grenada,2010,14.9
 Grenada,2010,3.8
-Grenada,2010,"1,084.5"
+Grenada,2010,1084.5
 Grenada,2010,0.0
 Grenada,2010,904.7
 Grenada,2010,24.5
@@ -1326,7 +1326,7 @@ Grenada,2016,14.4
 Grenada,2016,5.5
 Grenada,2016,396.3
 Grenada,2016,0.0
-Grenada,2016,"2,245.5"
+Grenada,2016,2245.5
 Grenada,2016,49.9
 Grenada,2016,207.7
 Grenada,2017,10.8
@@ -1406,7 +1406,7 @@ Guyana,2005,32.0
 Guyana,2010,18.7
 Guyana,2010,29.3
 Guyana,2010,8.2
-Guyana,2010,"1,492.1"
+Guyana,2010,1492.1
 Guyana,2010,0.3
 Guyana,2010,521.2
 Guyana,2010,146.1
@@ -1469,14 +1469,14 @@ Hungary,2005,1.8
 Hungary,2005,1.4
 Hungary,2005,122.3
 Hungary,2005,0.1
-Hungary,2005,"1,251.8"
+Hungary,2005,1251.8
 Hungary,2005,8.5
 Hungary,2010,1.4
 Hungary,2010,1.6
 Hungary,2010,1.2
 Hungary,2010,146.8
 Hungary,2010,0.2
-Hungary,2010,"1,351.8"
+Hungary,2010,1351.8
 Hungary,2010,34.2
 Hungary,2010,13.0
 Hungary,2014,1.5
@@ -1484,7 +1484,7 @@ Hungary,2014,1.7
 Hungary,2014,1.3
 Hungary,2014,137.4
 Hungary,2014,0.0
-Hungary,2014,"1,090.7"
+Hungary,2014,1090.7
 Hungary,2014,19.9
 Hungary,2014,7.9
 Hungary,2017,2.5
@@ -1499,20 +1499,20 @@ Hungary,2018,633.4
 Iceland,2005,1.0
 Iceland,2005,2.0
 Iceland,2005,0.0
-Iceland,2005,"1,078.4"
+Iceland,2005,1078.4
 Iceland,2005,97.6
 Iceland,2010,0.6
 Iceland,2010,1.2
 Iceland,2010,0.0
 Iceland,2010,17.8
-Iceland,2010,"1,535.9"
+Iceland,2010,1535.9
 Iceland,2010,13.1
 Iceland,2010,67.7
 Iceland,2017,0.9
 Iceland,2017,0.6
 Iceland,2017,1.2
 Iceland,2017,30.8
-Iceland,2017,"1,143.0"
+Iceland,2017,1143.0
 Iceland,2017,14.7
 Iceland,2017,142.3
 Iceland,2018,0.9
@@ -1578,14 +1578,14 @@ Ireland,2005,2.1
 Ireland,2005,0.4
 Ireland,2005,301.3
 Ireland,2005,1.8
-Ireland,2005,"1,421.8"
+Ireland,2005,1421.8
 Ireland,2005,43.5
 Ireland,2010,1.2
 Ireland,2010,2.1
 Ireland,2010,0.3
 Ireland,2010,330.2
 Ireland,2010,2.9
-Ireland,2010,"1,436.3"
+Ireland,2010,1436.3
 Ireland,2010,70.2
 Ireland,2010,52.0
 Ireland,2017,0.9
@@ -1593,21 +1593,21 @@ Ireland,2017,1.1
 Ireland,2017,0.6
 Ireland,2017,85.9
 Ireland,2017,1.6
-Ireland,2017,"1,408.3"
+Ireland,2017,1408.3
 Ireland,2017,42.5
 Ireland,2017,60.9
 Ireland,2018,0.9
 Ireland,2018,1.3
 Ireland,2018,0.4
 Ireland,2018,93.5
-Ireland,2018,"1,339.3"
+Ireland,2018,1339.3
 Isle of Man,2016,0.0
 Israel,2005,2.6
 Israel,2005,3.8
 Israel,2005,1.5
 Israel,2005,782.8
 Israel,2005,6.4
-Israel,2005,"1,918.8"
+Israel,2005,1918.8
 Israel,2005,70.4
 Israel,2010,2.0
 Israel,2010,3.2
@@ -1633,14 +1633,14 @@ Italy,2005,1.7
 Italy,2005,0.5
 Italy,2005,97.2
 Italy,2005,0.6
-Italy,2005,"1,882.9"
+Italy,2005,1882.9
 Italy,2005,6.9
 Italy,2010,0.9
 Italy,2010,1.3
 Italy,2010,0.5
 Italy,2010,109.3
 Italy,2010,0.6
-Italy,2010,"1,591.3"
+Italy,2010,1591.3
 Italy,2010,80.9
 Italy,2010,8.1
 Italy,2017,0.6
@@ -1648,7 +1648,7 @@ Italy,2017,0.8
 Italy,2017,0.4
 Italy,2017,108.6
 Italy,2017,0.3
-Italy,2017,"1,763.5"
+Italy,2017,1763.5
 Italy,2017,51.4
 Italy,2017,8.4
 Italy,2018,0.6
@@ -1656,7 +1656,7 @@ Italy,2018,0.7
 Italy,2018,0.4
 Italy,2018,109.4
 Italy,2018,0.3
-Italy,2018,"1,651.6"
+Italy,2018,1651.6
 Jamaica,2005,61.1
 Jamaica,2005,109.6
 Jamaica,2005,13.5
@@ -1747,7 +1747,7 @@ Kazakhstan,2015,7.1
 Kazakhstan,2015,2.8
 Kazakhstan,2015,5.1
 Kazakhstan,2015,0.5
-Kazakhstan,2015,"1,188.9"
+Kazakhstan,2015,1188.9
 Kazakhstan,2015,69.4
 Kazakhstan,2015,2.7
 Kazakhstan,2017,5.1
@@ -1861,12 +1861,12 @@ Kyrgyzstan,2018,183.3
 Latvia,2005,5.6
 Latvia,2005,48.9
 Latvia,2005,0.3
-Latvia,2005,"1,078.5"
+Latvia,2005,1078.5
 Latvia,2005,32.0
 Latvia,2010,3.3
 Latvia,2010,57.9
 Latvia,2010,0.4
-Latvia,2010,"1,211.0"
+Latvia,2010,1211.0
 Latvia,2010,50.6
 Latvia,2010,10.9
 Latvia,2017,4.2
@@ -1983,7 +1983,7 @@ Luxembourg,2010,2.0
 Luxembourg,2010,2.0
 Luxembourg,2010,487.3
 Luxembourg,2010,5.3
-Luxembourg,2010,"1,421.2"
+Luxembourg,2010,1421.2
 Luxembourg,2010,74.2
 Luxembourg,2010,41.5
 Luxembourg,2014,0.7
@@ -1991,18 +1991,18 @@ Luxembourg,2014,0.7
 Luxembourg,2014,0.7
 Luxembourg,2014,131.3
 Luxembourg,2014,9.4
-Luxembourg,2014,"1,850.1"
+Luxembourg,2014,1850.1
 Luxembourg,2014,110.9
 Luxembourg,2014,64.7
 Luxembourg,2017,0.3
 Luxembourg,2017,98.8
 Luxembourg,2017,7.8
-Luxembourg,2017,"1,704.6"
+Luxembourg,2017,1704.6
 Luxembourg,2017,76.7
 Luxembourg,2017,61.2
 Luxembourg,2018,101.1
 Luxembourg,2018,6.0
-Luxembourg,2018,"1,706.6"
+Luxembourg,2018,1706.6
 Madagascar,2010,16.3
 Madagascar,2010,0.0
 Madagascar,2010,0.3
@@ -2028,11 +2028,11 @@ Maldives,2003,1.3
 Maldives,2004,0.3
 Maldives,2010,1.6
 Maldives,2010,7.1
-Maldives,2010,"1,094.0"
+Maldives,2010,1094.0
 Maldives,2010,143.0
 Maldives,2013,0.7
 Maldives,2013,1.9
-Maldives,2013,"1,608.1"
+Maldives,2013,1608.1
 Maldives,2013,137.9
 Maldives,2017,71.3
 Maldives,2017,6.8
@@ -2041,13 +2041,13 @@ Maldives,2017,85.6
 Malta,2005,1.0
 Malta,2005,1.0
 Malta,2005,1.0
-Malta,2005,"2,375.3"
+Malta,2005,2375.3
 Malta,2010,1.0
 Malta,2010,1.5
 Malta,2010,0.5
 Malta,2010,43.5
 Malta,2010,0.0
-Malta,2010,"1,875.4"
+Malta,2010,1875.4
 Malta,2010,47.3
 Malta,2010,22.0
 Malta,2017,2.1
@@ -2055,7 +2055,7 @@ Malta,2017,3.6
 Malta,2017,0.5
 Malta,2017,42.5
 Malta,2017,0.0
-Malta,2017,"1,885.0"
+Malta,2017,1885.0
 Malta,2017,46.1
 Malta,2017,17.8
 Malta,2018,1.6
@@ -2063,7 +2063,7 @@ Malta,2018,1.4
 Malta,2018,1.8
 Malta,2018,41.7
 Malta,2018,0.0
-Malta,2018,"1,486.2"
+Malta,2018,1486.2
 Martinique,2005,4.8
 Martinique,2009,2.8
 Martinique,2009,4.4
@@ -2072,7 +2072,7 @@ Mauritius,2005,3.0
 Mauritius,2005,3.9
 Mauritius,2005,2.1
 Mauritius,2005,10.0
-Mauritius,2005,"1,172.2"
+Mauritius,2005,1172.2
 Mauritius,2005,25.7
 Mauritius,2010,2.6
 Mauritius,2010,4.0
@@ -2130,18 +2130,18 @@ Monaco,2005,957.4
 Monaco,2006,2.9
 Monaco,2006,409.5
 Monaco,2006,5.9
-Monaco,2006,"1,012.0"
+Monaco,2006,1012.0
 Monaco,2010,0.0
 Monaco,2015,0.0
 Monaco,2015,0.0
 Monaco,2015,0.0
 Monaco,2015,522.2
 Monaco,2015,2.7
-Monaco,2015,"1,442.1"
+Monaco,2015,1442.1
 Monaco,2015,31.8
 Monaco,2015,15.9
 Monaco,2016,2.6
-Monaco,2016,"1,092.7"
+Monaco,2016,1092.7
 Monaco,2016,13.1
 Mongolia,2005,15.8
 Mongolia,2005,118.4
@@ -2288,14 +2288,14 @@ Netherlands,2005,1.4
 Netherlands,2005,0.7
 Netherlands,2005,409.7
 Netherlands,2005,5.6
-Netherlands,2005,"4,631.5"
+Netherlands,2005,4631.5
 Netherlands,2005,44.5
 Netherlands,2010,0.9
 Netherlands,2010,1.1
 Netherlands,2010,0.6
 Netherlands,2010,361.3
 Netherlands,2010,3.9
-Netherlands,2010,"3,968.8"
+Netherlands,2010,3968.8
 Netherlands,2010,96.7
 Netherlands,2010,57.6
 Netherlands,2017,0.8
@@ -2303,7 +2303,7 @@ Netherlands,2017,1.1
 Netherlands,2017,0.5
 Netherlands,2017,28.1
 Netherlands,2017,2.3
-Netherlands,2017,"1,522.2"
+Netherlands,2017,1522.2
 Netherlands,2017,46.9
 Netherlands,2017,28.3
 Netherlands,2018,0.6
@@ -2311,21 +2311,21 @@ Netherlands,2018,0.8
 Netherlands,2018,0.4
 Netherlands,2018,26.8
 Netherlands,2018,2.5
-Netherlands,2018,"1,372.5"
+Netherlands,2018,1372.5
 New Caledonia,2009,3.2
 New Zealand,2005,1.5
 New Zealand,2005,1.7
 New Zealand,2005,1.3
 New Zealand,2005,234.2
 New Zealand,2005,7.0
-New Zealand,2005,"3,087.9"
+New Zealand,2005,3087.9
 New Zealand,2005,59.6
 New Zealand,2010,1.0
 New Zealand,2010,1.0
 New Zealand,2010,1.0
 New Zealand,2010,257.7
 New Zealand,2010,5.2
-New Zealand,2010,"2,676.0"
+New Zealand,2010,2676.0
 New Zealand,2010,57.0
 New Zealand,2010,66.7
 New Zealand,2017,0.7
@@ -2333,12 +2333,12 @@ New Zealand,2017,1.0
 New Zealand,2017,0.5
 New Zealand,2017,521.6
 New Zealand,2017,8.1
-New Zealand,2017,"2,898.9"
+New Zealand,2017,2898.9
 New Zealand,2017,79.7
 New Zealand,2017,126.0
 New Zealand,2018,534.0
 New Zealand,2018,9.5
-New Zealand,2018,"2,853.5"
+New Zealand,2018,2853.5
 Nicaragua,2005,13.4
 Nicaragua,2005,355.5
 Nicaragua,2005,0.2
@@ -2401,27 +2401,27 @@ Norway,2005,0.7
 Norway,2005,0.7
 Norway,2005,0.7
 Norway,2005,63.9
-Norway,2005,"2,991.6"
+Norway,2005,2991.6
 Norway,2005,42.3
 Norway,2010,0.6
 Norway,2010,0.6
 Norway,2010,0.6
 Norway,2010,59.9
-Norway,2010,"2,592.9"
+Norway,2010,2592.9
 Norway,2010,34.5
 Norway,2010,50.1
 Norway,2017,0.5
 Norway,2017,0.6
 Norway,2017,0.5
 Norway,2017,39.9
-Norway,2017,"1,778.2"
+Norway,2017,1778.2
 Norway,2017,14.7
 Norway,2017,106.4
 Norway,2018,0.5
 Norway,2018,0.6
 Norway,2018,0.3
 Norway,2018,36.9
-Norway,2018,"1,729.5"
+Norway,2018,1729.5
 Oman,2005,2.1
 Oman,2008,1.7
 Oman,2008,75.7
@@ -2611,7 +2611,7 @@ Portugal,2010,1.6
 Portugal,2010,0.8
 Portugal,2010,8.1
 Portugal,2010,4.7
-Portugal,2010,"1,088.8"
+Portugal,2010,1088.8
 Portugal,2010,192.9
 Portugal,2010,20.2
 Portugal,2014,0.9
@@ -2619,7 +2619,7 @@ Portugal,2014,0.9
 Portugal,2014,0.9
 Portugal,2014,5.2
 Portugal,2014,3.6
-Portugal,2014,"1,005.6"
+Portugal,2014,1005.6
 Portugal,2014,149.7
 Portugal,2014,22.4
 Portugal,2017,0.7
@@ -2767,7 +2767,7 @@ Russian Federation,2005,40.1
 Russian Federation,2005,11.5
 Russian Federation,2005,40.3
 Russian Federation,2005,0.8
-Russian Federation,2005,"1,094.9"
+Russian Federation,2005,1094.9
 Russian Federation,2005,12.9
 Russian Federation,2010,11.6
 Russian Federation,2010,18.5
@@ -2809,7 +2809,7 @@ Saint Kitts and Nevis,2005,17.1
 Saint Kitts and Nevis,2010,42.8
 Saint Kitts and Nevis,2010,316.3
 Saint Kitts and Nevis,2010,4.1
-Saint Kitts and Nevis,2010,"1,087.5"
+Saint Kitts and Nevis,2010,1087.5
 Saint Kitts and Nevis,2010,177.5
 Saint Kitts and Nevis,2010,126.5
 Saint Kitts and Nevis,2011,68.8
@@ -2837,22 +2837,22 @@ Saint Pierre and Miquelon,2009,15.8
 Saint Vincent & Grenadines,2005,23.9
 Saint Vincent & Grenadines,2005,34.6
 Saint Vincent & Grenadines,2005,13.0
-Saint Vincent & Grenadines,2005,"1,152.7"
+Saint Vincent & Grenadines,2005,1152.7
 Saint Vincent & Grenadines,2005,1.8
-Saint Vincent & Grenadines,2005,"1,779.6"
+Saint Vincent & Grenadines,2005,1779.6
 Saint Vincent & Grenadines,2005,105.0
 Saint Vincent & Grenadines,2010,23.1
 Saint Vincent & Grenadines,2010,39.9
 Saint Vincent & Grenadines,2010,5.6
-Saint Vincent & Grenadines,2010,"1,209.1"
+Saint Vincent & Grenadines,2010,1209.1
 Saint Vincent & Grenadines,2010,1.8
-Saint Vincent & Grenadines,2010,"1,756.0"
+Saint Vincent & Grenadines,2010,1756.0
 Saint Vincent & Grenadines,2010,108.1
 Saint Vincent & Grenadines,2010,155.2
 Saint Vincent & Grenadines,2012,25.8
-Saint Vincent & Grenadines,2012,"1,025.5"
+Saint Vincent & Grenadines,2012,1025.5
 Saint Vincent & Grenadines,2012,3.7
-Saint Vincent & Grenadines,2012,"1,939.4"
+Saint Vincent & Grenadines,2012,1939.4
 Saint Vincent & Grenadines,2012,147.6
 Saint Vincent & Grenadines,2012,161.4
 Saint Vincent & Grenadines,2016,36.5
@@ -3022,14 +3022,14 @@ Slovenia,2005,1.0
 Slovenia,2005,1.0
 Slovenia,2005,115.5
 Slovenia,2005,0.2
-Slovenia,2005,"1,478.2"
+Slovenia,2005,1478.2
 Slovenia,2005,15.6
 Slovenia,2010,0.7
 Slovenia,2010,0.7
 Slovenia,2010,0.8
 Slovenia,2010,106.8
 Slovenia,2010,0.2
-Slovenia,2010,"1,414.9"
+Slovenia,2010,1414.9
 Slovenia,2010,22.7
 Slovenia,2010,18.4
 Slovenia,2017,0.9
@@ -3147,7 +3147,7 @@ State of Palestine,2018,15.2
 State of Palestine,2018,48.1
 Sudan,2008,5.1
 Suriname,2004,9.3
-Suriname,2004,"2,754.2"
+Suriname,2004,2754.2
 Suriname,2005,13.8
 Suriname,2008,8.3
 Suriname,2008,12.7
@@ -3162,39 +3162,39 @@ Sweden,2005,0.9
 Sweden,2005,1.2
 Sweden,2005,0.7
 Sweden,2005,803.7
-Sweden,2005,"4,921.4"
+Sweden,2005,4921.4
 Sweden,2005,129.6
 Sweden,2010,1.0
 Sweden,2010,1.4
 Sweden,2010,0.6
 Sweden,2010,59.6
-Sweden,2010,"3,918.6"
+Sweden,2010,3918.6
 Sweden,2010,98.2
 Sweden,2010,150.4
 Sweden,2017,1.1
 Sweden,2017,1.7
 Sweden,2017,0.5
 Sweden,2017,47.3
-Sweden,2017,"3,635.7"
+Sweden,2017,3635.7
 Sweden,2017,87.3
 Sweden,2017,190.6
 Sweden,2018,1.1
 Sweden,2018,1.5
 Sweden,2018,0.7
 Sweden,2018,47.2
-Sweden,2018,"3,352.4"
+Sweden,2018,3352.4
 Switzerland,2005,1.0
 Switzerland,2005,1.0
 Switzerland,2005,1.0
 Switzerland,2005,109.6
 Switzerland,2005,3.3
-Switzerland,2005,"1,928.0"
+Switzerland,2005,1928.0
 Switzerland,2010,0.7
 Switzerland,2010,0.7
 Switzerland,2010,0.7
 Switzerland,2010,6.2
 Switzerland,2010,0.0
-Switzerland,2010,"2,065.4"
+Switzerland,2010,2065.4
 Switzerland,2010,56.4
 Switzerland,2010,31.9
 Switzerland,2017,0.5
@@ -3202,7 +3202,7 @@ Switzerland,2017,0.6
 Switzerland,2017,0.5
 Switzerland,2017,6.9
 Switzerland,2017,0.0
-Switzerland,2017,"1,673.5"
+Switzerland,2017,1673.5
 Switzerland,2017,20.6
 Switzerland,2017,30.7
 Switzerland,2018,0.6
@@ -3210,7 +3210,7 @@ Switzerland,2018,0.5
 Switzerland,2018,0.7
 Switzerland,2018,6.9
 Switzerland,2018,0.1
-Switzerland,2018,"1,595.3"
+Switzerland,2018,1595.3
 Syrian Arab Republic,2004,2.4
 Syrian Arab Republic,2004,35.7
 Syrian Arab Republic,2004,0.8
@@ -3468,24 +3468,24 @@ United States of America,2005,5.7
 United States of America,2005,9.1
 United States of America,2005,2.4
 United States of America,2005,292.3
-United States of America,2005,"2,299.5"
+United States of America,2005,2299.5
 United States of America,2010,4.8
 United States of America,2010,7.5
 United States of America,2010,2.1
 United States of America,2010,253.0
-United States of America,2010,"2,007.9"
+United States of America,2010,2007.9
 United States of America,2010,119.4
 United States of America,2017,5.3
 United States of America,2017,8.5
 United States of America,2017,2.2
 United States of America,2017,249.3
-United States of America,2017,"1,695.9"
+United States of America,2017,1695.9
 United States of America,2017,98.6
 United States of America,2018,5.0
 United States of America,2018,7.8
 United States of America,2018,2.2
 United States of America,2018,246.8
-United States of America,2018,"1,595.0"
+United States of America,2018,1595.0
 United States Virgin Islands,2005,34.3
 United States Virgin Islands,2005,65.3
 United States Virgin Islands,2005,5.4
@@ -3497,22 +3497,22 @@ United States Virgin Islands,2012,99.2
 United States Virgin Islands,2012,3.6
 Uruguay,2003,5.9
 Uruguay,2003,0.1
-Uruguay,2003,"2,906.6"
+Uruguay,2003,2906.6
 Uruguay,2004,6.0
-Uruguay,2004,"3,182.0"
+Uruguay,2004,3182.0
 Uruguay,2005,5.7
 Uruguay,2010,6.1
 Uruguay,2010,10.1
 Uruguay,2010,2.4
 Uruguay,2010,15.5
-Uruguay,2010,"2,836.0"
+Uruguay,2010,2836.0
 Uruguay,2010,411.7
 Uruguay,2017,8.3
 Uruguay,2017,13.7
 Uruguay,2017,3.1
 Uruguay,2017,12.4
 Uruguay,2017,1.1
-Uruguay,2017,"3,363.5"
+Uruguay,2017,3363.5
 Uruguay,2017,565.8
 Uruguay,2017,61.8
 Uruguay,2018,12.1
@@ -3520,7 +3520,7 @@ Uruguay,2018,21.6
 Uruguay,2018,3.2
 Uruguay,2018,15.2
 Uruguay,2018,0.7
-Uruguay,2018,"4,228.0"
+Uruguay,2018,4228.0
 Uzbekistan,2005,3.4
 Uzbekistan,2008,3.0
 Uzbekistan,2017,1.1
