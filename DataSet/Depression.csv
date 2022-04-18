@@ -1,0 +1,462 @@
+Country,Rank,Happiness,Year
+Denmark,1,7.526,2016
+Switzerland,2,7.509,2016
+Iceland,3,7.501,2016
+Norway,4,7.498,2016
+Finland,5,7.413,2016
+Canada,6,7.404,2016
+Netherlands,7,7.339,2016
+New Zealand,8,7.334,2016
+Australia,9,7.313,2016
+Sweden,10,7.291,2016
+Israel,11,7.267,2016
+Austria,12,7.119,2016
+United States,13,7.104,2016
+Costa Rica,14,7.087,2016
+Germany,16,6.994,2016
+Brazil,17,6.952,2016
+Belgium,18,6.929,2016
+Ireland,19,6.907,2016
+Luxembourg,20,6.871,2016
+Mexico,21,6.778,2016
+Singapore,22,6.739,2016
+United Kingdom,23,6.725,2016
+Chile,24,6.705,2016
+Panama,25,6.701,2016
+Argentina,26,6.65,2016
+Czech Republic,27,6.596,2016
+United Arab Emirates,28,6.573,2016
+Uruguay,29,6.545,2016
+Colombia,31,6.481,2016
+France,32,6.478,2016
+Thailand,33,6.474,2016
+Saudi Arabia,34,6.379,2016
+Spain,37,6.361,2016
+Guatemala,39,6.324,2016
+Slovakia,45,6.078,2016
+El Salvador,46,6.068,2016
+Malaysia,47,6.005,2016
+Nicaragua,48,5.992,2016
+Italy,50,5.977,2016
+Ecuador,51,5.976,2016
+Japan,53,5.921,2016
+Kazakhstan,54,5.919,2016
+Poland,57,5.835,2016
+Lithuania,60,5.813,2016
+Belarus,61,5.802,2016
+Peru,64,5.743,2016
+Latvia,68,5.56,2016
+Cyprus,69,5.546,2016
+Paraguay,70,5.538,2016
+Romania,71,5.528,2016
+Estonia,72,5.517,2016
+Hong Kong,75,5.458,2016
+Turkey,78,5.389,2016
+Indonesia,79,5.314,2016
+Philippines,82,5.279,2016
+Dominican Republic,89,5.155,2016
+Morocco,90,5.151,2016
+Hungary,91,5.145,2016
+Portugal,94,5.123,2016
+Greece,99,5.033,2016
+Nigeria,103,4.875,2016
+Honduras,104,4.871,2016
+South Africa,116,4.459,2016
+India,118,4.404,2016
+Egypt,120,4.362,2016
+Ukraine,123,4.324,2016
+Bulgaria,129,4.217,2016
+Norway,1,7.537,2017
+Denmark,2,7.522,2017
+Iceland,3,7.504,2017
+Switzerland,4,7.494,2017
+Finland,5,7.469,2017
+Netherlands,6,7.377,2017
+Canada,7,7.316,2017
+New Zealand,8,7.314,2017
+Sweden,9,7.284,2017
+Australia,10,7.284,2017
+Israel,11,7.213,2017
+Costa Rica,12,7.079,2017
+Austria,13,7.006,2017
+United States,14,6.993,2017
+Ireland,15,6.977,2017
+Germany,16,6.951,2017
+Belgium,17,6.891,2017
+Luxembourg,18,6.863,2017
+United Kingdom,19,6.714,2017
+Chile,20,6.652,2017
+United Arab Emirates,21,6.648,2017
+Brazil,22,6.635,2017
+Czech Republic,23,6.609,2017
+Argentina,24,6.599,2017
+Mexico,25,6.578,2017
+Singapore,26,6.572,2017
+Uruguay,28,6.454,2017
+Guatemala,29,6.454,2017
+Panama,30,6.452,2017
+France,31,6.442,2017
+Thailand,32,6.424,2017
+Spain,34,6.403,2017
+Colombia,36,6.357,2017
+Saudi Arabia,37,6.344,2017
+Slovakia,40,6.098,2017
+Malaysia,42,6.084,2017
+Nicaragua,43,6.071,2017
+Ecuador,44,6.008,2017
+El Salvador,45,6.003,2017
+Poland,46,5.973,2017
+Italy,48,5.964,2017
+Japan,51,5.92,2017
+Lithuania,52,5.902,2017
+Latvia,54,5.85,2017
+Romania,57,5.825,2017
+Kazakhstan,60,5.819,2017
+Peru,63,5.715,2017
+Cyprus,65,5.621,2017
+Estonia,66,5.611,2017
+Belarus,67,5.569,2017
+Turkey,69,5.5,2017
+Paraguay,70,5.493,2017
+Philippines,72,5.43,2017
+Hungary,75,5.324,2017
+Indonesia,81,5.262,2017
+Morocco,84,5.235,2017
+Dominican Republic,86,5.23,2017
+Greece,87,5.227,2017
+Portugal,89,5.195,2017
+Honduras,91,5.181,2017
+Nigeria,95,5.074,2017
+South Africa,101,4.829,2017
+Egypt,104,4.735,2017
+Bulgaria,105,4.714,2017
+India,122,4.315,2017
+Ukraine,132,4.096,2017
+Finland,1,7.632,2018
+Norway,2,7.594,2018
+Denmark,3,7.555,2018
+Iceland,4,7.495,2018
+Switzerland,5,7.487,2018
+Netherlands,6,7.441,2018
+Canada,7,7.328,2018
+New Zealand,8,7.324,2018
+Sweden,9,7.314,2018
+Australia,10,7.272,2018
+United Kingdom,11,7.19,2018
+Austria,12,7.139,2018
+Costa Rica,13,7.072,2018
+Ireland,14,6.977,2018
+Germany,15,6.965,2018
+Belgium,16,6.927,2018
+Luxembourg,17,6.91,2018
+United States,18,6.886,2018
+Israel,19,6.814,2018
+United Arab Emirates,20,6.774,2018
+Czech Republic,21,6.711,2018
+France,23,6.489,2018
+Mexico,24,6.488,2018
+Chile,25,6.476,2018
+Panama,27,6.43,2018
+Brazil,28,6.419,2018
+Argentina,29,6.388,2018
+Guatemala,30,6.382,2018
+Uruguay,31,6.379,2018
+Saudi Arabia,33,6.371,2018
+Singapore,34,6.343,2018
+Malaysia,35,6.322,2018
+Spain,36,6.31,2018
+Colombia,37,6.26,2018
+Slovakia,39,6.173,2018
+El Salvador,40,6.167,2018
+Nicaragua,41,6.141,2018
+Poland,42,6.123,2018
+Thailand,46,6.072,2018
+Italy,47,6.0,2018
+Ecuador,48,5.973,2018
+Lithuania,50,5.952,2018
+Romania,52,5.945,2018
+Latvia,53,5.933,2018
+Japan,54,5.915,2018
+Kazakhstan,60,5.79,2018
+Cyprus,61,5.762,2018
+Estonia,63,5.739,2018
+Paraguay,64,5.681,2018
+Peru,65,5.663,2018
+Hungary,69,5.62,2018
+Philippines,71,5.524,2018
+Honduras,72,5.504,2018
+Belarus,73,5.483,2018
+Turkey,74,5.483,2018
+Hong Kong,76,5.43,2018
+Portugal,77,5.41,2018
+Greece,79,5.358,2018
+Dominican Republic,83,5.302,2018
+Morocco,85,5.254,2018
+Nigeria,91,5.155,2018
+Indonesia,96,5.093,2018
+Bulgaria,100,4.933,2018
+South Africa,105,4.724,2018
+Egypt,122,4.419,2018
+India,133,4.19,2018
+Ukraine,138,4.103,2018
+Finland,1,7.769,2019
+Denmark,2,7.6,2019
+Norway,3,7.554,2019
+Iceland,4,7.494,2019
+Netherlands,5,7.488,2019
+Switzerland,6,7.48,2019
+Sweden,7,7.343,2019
+New Zealand,8,7.307,2019
+Canada,9,7.278,2019
+Austria,10,7.246,2019
+Australia,11,7.228,2019
+Costa Rica,12,7.167,2019
+Israel,13,7.139,2019
+Luxembourg,14,7.09,2019
+United Kingdom,15,7.054,2019
+Ireland,16,7.021,2019
+Germany,17,6.985,2019
+Belgium,18,6.923,2019
+United States,19,6.892,2019
+Czech Republic,20,6.852,2019
+United Arab Emirates,21,6.825,2019
+Mexico,23,6.595,2019
+France,24,6.592,2019
+Chile,26,6.444,2019
+Guatemala,27,6.436,2019
+Saudi Arabia,28,6.375,2019
+Spain,30,6.354,2019
+Panama,31,6.321,2019
+Brazil,32,6.3,2019
+Uruguay,33,6.293,2019
+Singapore,34,6.262,2019
+El Salvador,35,6.253,2019
+Italy,36,6.223,2019
+Slovakia,38,6.198,2019
+Poland,40,6.182,2019
+Lithuania,42,6.149,2019
+Colombia,43,6.125,2019
+Nicaragua,45,6.105,2019
+Argentina,47,6.086,2019
+Romania,48,6.07,2019
+Cyprus,49,6.046,2019
+Ecuador,50,6.028,2019
+Thailand,52,6.008,2019
+Latvia,53,5.94,2019
+Estonia,55,5.893,2019
+Japan,58,5.886,2019
+Honduras,59,5.86,2019
+Kazakhstan,60,5.809,2019
+Hungary,62,5.758,2019
+Paraguay,63,5.743,2019
+Peru,65,5.697,2019
+Portugal,66,5.693,2019
+Philippines,69,5.631,2019
+Hong Kong,76,5.43,2019
+Dominican Republic,77,5.425,2019
+Turkey,79,5.373,2019
+Malaysia,80,5.339,2019
+Belarus,81,5.323,2019
+Greece,82,5.287,2019
+Nigeria,85,5.265,2019
+Morocco,89,5.208,2019
+Indonesia,92,5.192,2019
+Bulgaria,97,5.011,2019
+South Africa,106,4.722,2019
+Ukraine,133,4.332,2019
+Egypt,137,4.166,2019
+India,140,4.015,2019
+Finland,1,7.809,2020
+Denmark,2,7.646,2020
+Switzerland,3,7.56,2020
+Iceland,4,7.504,2020
+Norway,5,7.488,2020
+Netherlands,6,7.449,2020
+Sweden,7,7.353,2020
+New Zealand,8,7.3,2020
+Austria,9,7.294,2020
+Luxembourg,10,7.238,2020
+Canada,11,7.232,2020
+Australia,12,7.223,2020
+United Kingdom,13,7.165,2020
+Israel,14,7.129,2020
+Costa Rica,15,7.121,2020
+Ireland,16,7.094,2020
+Germany,17,7.076,2020
+United States,18,6.94,2020
+Czech Republic,19,6.911,2020
+Belgium,20,6.864,2020
+United Arab Emirates,21,6.791,2020
+France,23,6.664,2020
+Mexico,24,6.465,2020
+Uruguay,26,6.44,2020
+Saudi Arabia,27,6.406,2020
+Spain,28,6.401,2020
+Guatemala,29,6.399,2020
+Italy,30,6.387,2020
+Singapore,31,6.377,2020
+Brazil,32,6.376,2020
+El Salvador,34,6.348,2020
+Panama,36,6.305,2020
+Slovakia,37,6.281,2020
+Chile,39,6.228,2020
+Lithuania,41,6.215,2020
+Poland,43,6.186,2020
+Colombia,44,6.163,2020
+Cyprus,45,6.159,2020
+Nicaragua,46,6.137,2020
+Romania,47,6.124,2020
+Kazakhstan,50,6.058,2020
+Estonia,51,6.022,2020
+Philippines,52,6.006,2020
+Hungary,53,6.0,2020
+Thailand,54,5.999,2020
+Argentina,55,5.975,2020
+Honduras,56,5.953,2020
+Latvia,57,5.95,2020
+Ecuador,58,5.925,2020
+Portugal,59,5.911,2020
+Japan,62,5.871,2020
+Peru,63,5.797,2020
+Paraguay,67,5.692,2020
+Dominican Republic,68,5.689,2020
+Belarus,75,5.54,2020
+Greece,77,5.515,2020
+Malaysia,82,5.384,2020
+Indonesia,84,5.286,2020
+Turkey,93,5.132,2020
+Bulgaria,96,5.102,2020
+Morocco,97,5.095,2020
+South Africa,109,4.814,2020
+Nigeria,115,4.724,2020
+Ukraine,123,4.561,2020
+Egypt,138,4.151,2020
+India,144,3.573,2020
+Finland,1,7.842,2021
+Denmark,2,7.62,2021
+Switzerland,3,7.571,2021
+Iceland,4,7.554,2021
+Netherlands,5,7.464,2021
+Norway,6,7.392,2021
+Sweden,7,7.363,2021
+Luxembourg,8,7.324,2021
+New Zealand,9,7.277,2021
+Austria,10,7.268,2021
+Australia,11,7.183,2021
+Israel,12,7.157,2021
+Germany,13,7.155,2021
+Canada,14,7.103,2021
+Ireland,15,7.085,2021
+Costa Rica,16,7.069,2021
+United Kingdom,17,7.064,2021
+Czech Republic,18,6.965,2021
+United States,19,6.951,2021
+Belgium,20,6.834,2021
+France,21,6.69,2021
+United Arab Emirates,25,6.561,2021
+Saudi Arabia,26,6.494,2021
+Spain,27,6.491,2021
+Italy,28,6.483,2021
+Guatemala,30,6.435,2021
+Uruguay,31,6.431,2021
+Singapore,32,6.377,2021
+Slovakia,34,6.331,2021
+Brazil,35,6.33,2021
+Mexico,36,6.317,2021
+Lithuania,38,6.255,2021
+Cyprus,39,6.223,2021
+Estonia,40,6.189,2021
+Panama,41,6.18,2021
+Chile,43,6.172,2021
+Poland,44,6.166,2021
+Kazakhstan,45,6.152,2021
+Romania,46,6.14,2021
+El Salvador,49,6.061,2021
+Latvia,51,6.032,2021
+Colombia,52,6.012,2021
+Hungary,53,5.992,2021
+Thailand,54,5.985,2021
+Nicaragua,55,5.972,2021
+Japan,56,5.94,2021
+Argentina,57,5.929,2021
+Portugal,58,5.929,2021
+Honduras,59,5.919,2021
+Philippines,61,5.88,2021
+Peru,63,5.84,2021
+Ecuador,66,5.764,2021
+Greece,68,5.723,2021
+Paraguay,71,5.653,2021
+Dominican Republic,73,5.545,2021
+Belarus,75,5.534,2021
+Malaysia,81,5.384,2021
+Indonesia,82,5.345,2021
+Bulgaria,88,5.266,2021
+South Africa,103,4.956,2021
+Turkey,104,4.948,2021
+Morocco,106,4.918,2021
+Ukraine,110,4.875,2021
+Nigeria,116,4.759,2021
+Egypt,132,4.283,2021
+India,139,3.819,2021
+Finland,1,7.821,2022
+Denmark,2,7.636,2022
+Iceland,3,7.557,2022
+Switzerland,4,7.512,2022
+Netherlands,5,7.415,2022
+Sweden,7,7.384,2022
+Norway,8,7.365,2022
+Israel,9,7.364,2022
+New Zealand,10,7.200,2022
+Austria,11,7.163,2022
+Australia,12,7.162,2022
+Ireland,13,7.041,2022
+Germany,14,7.034,2022
+Canada,15,7.025,2022
+United States,16,6.977,2022
+United Kingdom,17,6.943,2022
+Belgium,19,6.805,2022
+France,20,6.687,2022
+Costa Rica,23,6.582,2022
+United Arab Emirates,24,6.576,2022
+Saudi Arabia,25,6.523,2022
+Singapore,27,6.480,2022
+Romania,28,6.477,2022
+Spain,29,6.476,2022
+Uruguay,30,6.474,2022
+Italy,31,6.467,2022
+Lithuania,34,6.446,2022
+Slovakia,35,6.391,2022
+Estonia,36,6.341,2022
+Panama,37,6.309,2022
+Brazil,38,6.293,2022
+Kazakhstan,40,6.234,2022
+Cyprus,41,6.221,2022
+Latvia,42,6.180,2022
+Chile,44,6.172,2022
+Nicaragua,45,6.165,2022
+Mexico,46,6.128,2022
+Poland,48,6.123,2022
+El Salvador,49,6.120,2022
+Hungary,51,6.086,2022
+Japan,54,6.039,2022
+Honduras,55,6.022,2022
+Portugal,56,6.016,2022
+Argentina,57,5.967,2022
+Greece,58,5.948,2022
+Philippines,60,5.904,2022
+Thailand,61,5.891,2022
+Colombia,66,5.781,2022
+Dominican Republic,69,5.737,2022
+Malaysia,70,5.711,2022
+Paraguay,73,5.578,2022
+Peru,74,5.559,2022
+Ecuador,76,5.533,2022
+Bulgaria,85,5.371,2022
+Indonesia,87,5.240,2022
+South Africa,91,5.194,2022
+Ukraine,98,5.084,2022
+Morocco,100,5.060,2022
+Turkey,112,4.744,2022
+Nigeria,118,4.552,2022
+Egypt,129,4.288,2022
+India,136,3.777,2022

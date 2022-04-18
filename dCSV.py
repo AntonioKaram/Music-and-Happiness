@@ -1,5 +1,6 @@
 import csv
 import math
+
 with open('2022.csv', 'r') as f1: 
   f1reader = csv.reader(f1)
   country = []
