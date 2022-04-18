@@ -17,8 +17,14 @@ header.append('valence')
 
 final = []
 final.append(header)
-i = 1
-for line in data[1:5]:
+i = 22328
+count = 0
+
+file2 = open("./DataSet/musicData2.csv","a")
+fh2 = csv.writer(file2)
+#fh2.writerow(header)
+
+for line in data[22328:]:
     print(i)
 
     song = line[5]
@@ -32,16 +38,14 @@ for line in data[1:5]:
         valence = info[0]['valence']
 
         line.append(valence)
-        final.append(line)
+        
+        fh2.writerow(line)
 
-    except IndexError:
+    except (IndexError, TypeError, spotipy.exceptions.SpotifyException):
         print(query,"Not Found")
+        count += 1
 
     i += 1
 
-file2 = open("./DataSet/musicData2.csv","w")
-fh = csv.writer(file2)
-
-for line in final:
-    fh.writerow(line)
-
+file2.close()
+print("Number not found:",count)
