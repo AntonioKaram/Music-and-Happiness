@@ -18,14 +18,14 @@ header.append('valence')
 
 final = []
 final.append(header)
-i = 35117
+i = 47326
 count = 0
 
 file2 = open("./DataSet/musicData2.csv","a")
 fh2 = csv.writer(file2)
 #fh2.writerow(header)
 
-for line in data[35117:]:
+for line in data[47326:]:
     print(i)
 
     song = line[5]
