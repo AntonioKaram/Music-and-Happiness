@@ -1,9 +1,10 @@
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
+from requests import ReadTimeout
 import csv
 
-sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="f664dd2901c94f7098a37aff415b1f83",
-                                                           client_secret="02f450a40d674ebf983882ee5cebcbde"))
+sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="4e490ebc7cf341549ed264636e434e10",
+                                                           client_secret="ee2d829c6733442195c2914abf0fd326"))
 
 file1 = open("./DataSet/musicData.csv", 'r')
 
@@ -17,14 +18,14 @@ header.append('valence')
 
 final = []
 final.append(header)
-i = 22328
+i = 35117
 count = 0
 
 file2 = open("./DataSet/musicData2.csv","a")
 fh2 = csv.writer(file2)
 #fh2.writerow(header)
 
-for line in data[22328:]:
+for line in data[35117:]:
     print(i)
 
     song = line[5]
@@ -41,7 +42,7 @@ for line in data[22328:]:
         
         fh2.writerow(line)
 
-    except (IndexError, TypeError, spotipy.exceptions.SpotifyException):
+    except (IndexError, TypeError, spotipy.exceptions.SpotifyException, ReadTimeout):
         print(query,"Not Found")
         count += 1
 
