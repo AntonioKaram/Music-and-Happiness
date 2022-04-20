@@ -3,8 +3,8 @@ from spotipy.oauth2 import SpotifyClientCredentials
 from requests import ReadTimeout
 import csv
 
-sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="4e490ebc7cf341549ed264636e434e10",
-                                                           client_secret="ee2d829c6733442195c2914abf0fd326"))
+sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(client_id="",
+                                                           client_secret=""))
 
 file1 = open("./DataSet/musicData.csv", 'r')
 
