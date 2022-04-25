@@ -136,8 +136,8 @@ for country, countrData in musicData.items():
                         },
                        ignore_index = True)
 
-#make top5 names
-print(df)
+store = pd.HDFStore('store.h5')
+store['df'] = df
 
 '''
 
