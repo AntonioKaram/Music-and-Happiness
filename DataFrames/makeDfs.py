@@ -10,8 +10,13 @@ f_countryCodes.close()
 
 countries = {}
 
+countries2 = {}
+
 for item in countryList:
-    countries[item[0]] = item[1].lower()
+    countries[item[0]] = item[2]
+
+for item in countryList:
+    countries2[item[1]] = item[2]
 
 f_education = open("../DataSet/Education.csv", "r")
 r_education = csv.reader(f_education)
@@ -74,10 +79,11 @@ musicList = list(r_music)[1:]
 musicData = {}
 
 for item in musicList:
-    musicData[item[4]] = {}
+    musicData[countries2[item[4]]] = {}
 
 for item in musicList:
-    musicData[item[4]][item[3]] = {'top 200': {},
+    c = countries2[item[4]]
+    musicData[c][item[3]] = {'top 200': {},
                                    'crime' : 0, 
                                    'depression' : 0, 
                                    'education' : 0, 
@@ -87,30 +93,31 @@ for item in musicList:
                                    }
 
 for item in musicList:
-    musicData[item[4]][item[3]]['top 200'][item[5]+ ' by ' + item[6]] = float(item[7])
+    c = countries2[item[4]]
+    musicData[c][item[3]]['top 200'][item[5]+ ' by ' + item[6]] = float(item[7])
 
     if int(item[1]) <= 5:
-        musicData[item[4]][item[3]]['top 5'][item[5]+ ' by ' + item[6]] = float(item[7])
+        musicData[c][item[3]]['top 5'][item[5]+ ' by ' + item[6]] = float(item[7])
 
     
     try:
-        musicData[item[4]][item[3]]['crime'] = float(crimeData[item[4]][item[3]])
+        musicData[c][item[3]]['crime'] = float(crimeData[c][item[3]])
 
     except KeyError:
         pass
 
     try:
-        musicData[item[4]][item[3]]['depression'] = float(depData[item[4]][item[3]])
+        musicData[c][item[3]]['depression'] = float(depData[c][item[3]])
     except KeyError:
         pass
 
     try:
-        musicData[item[4]][item[3]]['education'] = float(educationData[item[4]][item[3]])
+        musicData[c][item[3]]['education'] = float(educationData[c][item[3]])
     except KeyError:
         pass
     
     try:
-        musicData[item[4]][item[3]]['gdp per cap'] = float(GDPData[item[4]][item[3]])
+        musicData[c][item[3]]['gdp per cap'] = float(GDPData[c][item[3]])
     except KeyError:
         pass
     
@@ -151,6 +158,7 @@ for country, countrData in musicData.items():
 
 store = pd.HDFStore('store.h5')
 store['df'] = df
+print(df)
 
 '''
 
