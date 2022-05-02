@@ -78,11 +78,15 @@ musicList = list(r_music)[1:]
 
 musicData = {}
 
+
 for item in musicList:
     musicData[countries2[item[4]]] = {}
 
+
 for item in musicList:
+    
     c = countries2[item[4]]
+
     musicData[c][item[3]] = {'top 200': {},
                                    'crime' : 0, 
                                    'depression' : 0, 
@@ -92,9 +96,11 @@ for item in musicList:
                                    'top 5': {}
                                    }
 
+
 for item in musicList:
     c = countries2[item[4]]
     musicData[c][item[3]]['top 200'][item[5]+ ' by ' + item[6]] = float(item[7])
+
 
     if int(item[1]) <= 5:
         musicData[c][item[3]]['top 5'][item[5]+ ' by ' + item[6]] = float(item[7])
@@ -121,7 +127,6 @@ for item in musicList:
     except KeyError:
         pass
     
-
 for country, countryData in musicData.items():
     for year, yearData in countryData.items():
         total = 0
@@ -137,27 +142,30 @@ df = pd.DataFrame(columns = ['country',
                              'depression',
                              'gdp per cap', 
                              'avg valence', 
-                             'top 1', 'top 2', 'top 3', 'top 4', 'top 5'])
+                             'top 1', 'top 2', 'top 3'])
 
-for country, countrData in musicData.items():
-    for year, yearData in countryData.items():
-        df = df.append({'country' : country,
-                        'year': year,
-                        'crime': yearData['crime'], 
-                        'education': yearData['education'], 
-                        'depression' : yearData['depression'], 
-                        'gdp per cap' : yearData['gdp per cap'], 
-                        'avg valence': yearData['avg valence'],
-                        'top 1': [list(yearData['top 5'].keys())[0],list(yearData['top 5'].values())[0]],
-                        'top 2': [list(yearData['top 5'].keys())[1],list(yearData['top 5'].values())[1]],
-                        'top 3': [list(yearData['top 5'].keys())[2],list(yearData['top 5'].values())[2]],
-                        'top 4': [list(yearData['top 5'].keys())[3],list(yearData['top 5'].values())[3]],
-                        'top 5': [list(yearData['top 5'].keys())[4],list(yearData['top 5'].values())[4]],
-                        },
-                       ignore_index = True)
+for country, cData in musicData.items():
+    for year, yearData in cData.items():
+        try:
+            df = df.append({'country' : country,
+                            'year': year,
+                            'crime': yearData['crime'], 
+                            'education': yearData['education'], 
+                            'depression' : yearData['depression'], 
+                            'gdp per cap' : yearData['gdp per cap'], 
+                            'avg valence': yearData['avg valence'],
+                            'top 1': [list(yearData['top 5'].keys())[0],list(yearData['top 5'].values())[0]],
+                            'top 2': [list(yearData['top 5'].keys())[1],list(yearData['top 5'].values())[1]],
+                            'top 3': [list(yearData['top 5'].keys())[2],list(yearData['top 5'].values())[2]],
+                            },
+                        ignore_index = True)
+        
+        except IndexError:
+            print(country,year,list(yearData['top 5'].keys()))
 
 store = pd.HDFStore('store.h5')
 store['df'] = df
+
 print(df)
 
 '''
