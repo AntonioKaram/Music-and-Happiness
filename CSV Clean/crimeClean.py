@@ -11,7 +11,7 @@ countries = {}
 
 for line in data[1:]:
     countries[line[0]] = {}
-
+ 
 for line in data[1:]:
     if float(line[2]) <= 10.0 and float(line[2]) > 0.0 :
         countries[line[0]][line[1]] = line[2]
