@@ -67,7 +67,6 @@ for c in countries:
                     df["Title"] = df.Title.str.replace(',','')
                     df["Title"] = df.Title.str.rstrip()
 
-                    
                     nm = df.Artist.str.split(',',1)
                     
                     for i in range(len(nm)):
@@ -77,8 +76,6 @@ for c in countries:
                             pass
                     
                     df["Artist"] =  nm
-
-                    
 
                     df.to_csv('./DATA/%s-%s.csv'%(c,year))
 
