@@ -86,20 +86,34 @@ for item in musicList:
                                    'top 5': {}
                                    }
 
-
 for item in musicList:
     musicData[item[4]][item[3]]['top 200'][item[5]+ ' by ' + item[6]] = float(item[7])
 
     if int(item[1]) <= 5:
         musicData[item[4]][item[3]]['top 5'][item[5]+ ' by ' + item[6]] = float(item[7])
 
+    
     try:
         musicData[item[4]][item[3]]['crime'] = float(crimeData[item[4]][item[3]])
+
+    except KeyError:
+        pass
+
+    try:
         musicData[item[4]][item[3]]['depression'] = float(depData[item[4]][item[3]])
+    except KeyError:
+        pass
+
+    try:
         musicData[item[4]][item[3]]['education'] = float(educationData[item[4]][item[3]])
+    except KeyError:
+        pass
+    
+    try:
         musicData[item[4]][item[3]]['gdp per cap'] = float(GDPData[item[4]][item[3]])
     except KeyError:
         pass
+    
 
 for country, countryData in musicData.items():
     for year, yearData in countryData.items():
@@ -107,7 +121,6 @@ for country, countryData in musicData.items():
         for val in yearData['top 200'].values():
             total += val
         yearData['avg valence'] = total / len(yearData['top 200'])
-
 
 
 df = pd.DataFrame(columns = ['country',
