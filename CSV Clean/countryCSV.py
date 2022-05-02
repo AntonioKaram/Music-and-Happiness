@@ -5,7 +5,7 @@ fh = csv.reader(f)
 
 data = list(fh)
 
-f2 = open("../DataSet/countryCodes3.csv", "w")
+f2 = open("../DataSet/countryCodes.csv", "w")
 fh2 = csv.writer(f2)
 
 fh2.writerow(['Name','Code 2', 'Code 3'])
