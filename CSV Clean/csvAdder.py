@@ -9,7 +9,7 @@ countries = ['ae', 'ar', 'at', 'au', 'be', 'bg', 'bo', 'br', 'by', 'ca', 'ch', '
 
 headers = ['index','postion','streams','year','country','title','artist']
 
-with open('happiness.csv', 'w') as data:
+with open('musicData.csv', 'w') as data:
     dataWriter = csv.writer(data)
     dataWriter.writerow(headers)
     for c in countries:
