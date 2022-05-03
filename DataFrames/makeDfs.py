@@ -148,7 +148,7 @@ for country, cData in musicData.items():
     for year, yearData in cData.items():
         try:
             df = df.append({'country' : country,
-                            'year': year,
+                            'year': int(year),
                             'crime': yearData['crime'], 
                             'education': yearData['education'], 
                             'depression' : yearData['depression'], 
