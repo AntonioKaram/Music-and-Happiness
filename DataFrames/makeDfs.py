@@ -163,8 +163,7 @@ for country, cData in musicData.items():
         except IndexError:
             print(country,year,list(yearData['top 5'].keys()))
 
-store = pd.HDFStore('store.h5')
-store['df'] = df
+df.to_pickle('store.pkl')
 
 print(df)
 
