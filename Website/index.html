@@ -64,17 +64,38 @@
       href="#carousel-ID" role="button" data-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="sr-only">Next</span></a>
   </div>
   <div class="container" id="bsr-wrapper">
+  </br> </br>
+    <h4 style="color: #273d62">Project Description</h4>
     <hr>
-    <p> <** THE PROJECT DESCRITION WILL GO HERE **>
+    <p> Our project tracks Spotify user trends by country and links them to the happiness index, education levels, and GDP of the country. 
+      The data gives indications of the correlation between artist, genre, and socioeconomic standards and indicators across the world. 
+      It also shows the evolution of that correlation and those data points across the years. We used the Spotify API and CSV files from the UN website. 
+      We chose this data because the Spotify API provided data for the location, number of plays, and the valence of the song. 
+      The valence was most important as it used the Beat, rhythm, timbre, and lyrics to calculate how happy or sad a song was. 
+      We chose to use this API as it gave us the most amount of data and as we already had Spotify accounts we already had the private keys required to query the API. 
+      The other website we chose to use was the United Nations website as they had predetermined CSV files written for all of the social data statistics we wanted to use to compare our music data.
+      We used the Spotify API and CSV files from the UN website. We chose this data because the Spotify API provided data for the location, number of plays, and the valence of the song. 
+      The valence was most important as it used the Beat, rhythm, timbre, and lyrics to calculate how happy or sad a song was. 
+      We chose to use this API as it gave us the most amount of data and as we already had Spotify accounts we already had the private keys required to query the API.
+      The other website we chose to use was the United Nations website as they had predetermined CSV files written for all of the social data statistics we wanted to use to compare our music data.
     </p>
+  </br>
     <h4 style="color: #273d62">Spotify API</h4>
-    <p> <** HERE WE WILL EXPLAIN WHAT THE SPOTIFY API IS, HOW IT WORKS, AND HOW WE USED IT **>>
+    <hr>
+    <p> The Spotify Web API returns JSON metadata about music artists, albums, and tracks, directly from the Spotify Data Catalogue. The way it works is through a private key, which enables the user to securely authenticate an API key with the API Gateway. API keys include a key ID that identifies the client responsible for the API service request. This key ID is not a secret and must be included in each request. API keys can also include a confidential secret key used for authentication, which should only be known to the client and to the API service. This API allowed us to get the data for the song and the artist for the top 200 tracks for the years 2016-2021 and retrieve the valence of each song. The valence values used the beat, rhythm, timbre, and lyrics to calculate the song's valence score which is Spotify's AI algorithms rating of how happy or sad a song is.
     </p>
+  </br>
     <h4 style="color: #273d62">HDI CSV</h4>
-    <p> <** HERE WE WILL EXPLAIN WHAT THE HUMAN DEVELOPMENT INDEX UNITED NATIONS CSV IS AND HOW WE USED IT **>
+    <hr>
+    <p> The HDI CSV files from the UN website contained Happiness ratings, GDP per capita, crime, and education levels for all the countries, all socioeconomic indicators that are sued to compare different development factors for countries worldwide. We downloaded this data from the website and uploaded it locally in order to compare it to the music data we received from Spotify.
+        To clean our data we went through the process of checking which categories of the data we needed and which ones we didn’t. We then proceeded to go through each of these CSV files and delete the extra data that was received from the API and the other CSV files we downloaded. We then went through each of the CSV files to see how there were formatted, then we changed the formatting to make sure they were all homogenous. There were some issues with the happiness data as some of the data was rated with commas instead of decimal points so we have to use the string.replace() method to change that. Another thing we needed to do was to delete the whitespace that was leading and trailing all the data in the CSV files. Finally, we had to change the way the files had the alpha-2 country codes and replace them with the alpha-3 country codes. Finally, we looked over all the data and found which countries had the least amount of data and deleted them from the CSV because they were not relevant to our analysis. 
     </p>
-    <p> <**made by akaram and vtaneja**>
+    </br>
+    </br>
+    <p> Made by akaram and vtaneja.
     </p>
+     </br>
+    </br>
   </div>
   <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
   <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
