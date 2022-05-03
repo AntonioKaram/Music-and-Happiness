@@ -148,12 +148,12 @@ for country, cData in musicData.items():
     for year, yearData in cData.items():
         try:
             df = df.append({'country' : country,
-                            'year': year,
-                            'crime': yearData['crime'], 
-                            'education': yearData['education'], 
-                            'depression' : yearData['depression'], 
-                            'gdp per cap' : yearData['gdp per cap'], 
-                            'avg valence': yearData['avg valence'],
+                            'year': int(year),
+                            'crime': float(yearData['crime']), 
+                            'education': float(yearData['education']), 
+                            'depression' : float(yearData['depression']), 
+                            'gdp per cap' : float(yearData['gdp per cap']), 
+                            'avg valence': float(yearData['avg valence']),
                             'top 1': [list(yearData['top 5'].keys())[0],list(yearData['top 5'].values())[0]],
                             'top 2': [list(yearData['top 5'].keys())[1],list(yearData['top 5'].values())[1]],
                             'top 3': [list(yearData['top 5'].keys())[2],list(yearData['top 5'].values())[2]],
