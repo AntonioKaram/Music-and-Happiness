@@ -11,4 +11,4 @@ The project tracks Spotify user trends by country and links them to the happines
 
 We used the Spotify API and CSV files from the United Nations website. We chose this data because the Spotify API provided data for the location, number of plays, and the valence of the song. The valence was most important as it used the Beat, rhythm, timbre, and lyrics to calculate how happy or sad a song was. We chose to use this API as it gave us the most amount of data and as we already had Spotify accounts we already had the private keys required to query the API. 
 
-The other website we chose to use was the United Nations website as they had predetermined CSV files written for all of the social data statistics we wanted to use to compare our music data. We used the Spotify API and CSV files from the UN website. We chose this data because the Spotify API provided data for the location, number of plays, and the valence of the song. 
+The other website we chose to use was the United Nations website as they had predetermined CSV files written for all of the social data statistics we wanted to use to compare our music data.
