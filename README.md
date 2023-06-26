@@ -1,4 +1,4 @@
-# MusicData
+# Music & Happiness
 
 Compare world music information from the Spotify API to country happiness, GDP, Eduction, and Crime Rates from 2016 to 2022
 
