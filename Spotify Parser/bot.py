@@ -4,7 +4,7 @@ from utilitymethods.utilitymethods import SpotifyBot
 
 
 def main():
-    ig_bot = SpotifyBot()
+    bot = SpotifyBot()
 
 
 if __name__ == '__main__':
