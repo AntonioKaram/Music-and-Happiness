@@ -1,6 +1,6 @@
 # Music & Happiness
 
-Compare world music information from the Spotify API to country happiness, GDP, Eduction, and Crime Rates from 2016 to 2022
+Compare world music information from the Spotify API to country happiness, GDP, Eduction, and Crime Rates from 2016 to 2022.
 
 ![Screenshot 2023-06-26 at 2 29 36 PM](https://github.com/AntonioKaram/MusicData/assets/73662395/6f7f7490-1424-445b-83ea-ce5d8c5da250)
 
